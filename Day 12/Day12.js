@@ -185,4 +185,4 @@
         let result = pattern.test(name)
         
         console.log(result) // true
-    }
+    }   
